@@ -11,6 +11,6 @@ zip/output-metapad.zip
   matching tables with meta patterns of appropriate granularity (top-down or bottom-up)
   results of information extraction using meta patterns (attribute)
   
-segmentation: C++
-synonymous pattern grouping: Python
-type level adjustment: Python
+- segmentation: C++
+- synonymous pattern grouping: Python
+- type level adjustment: Python
